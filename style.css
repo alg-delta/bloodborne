@@ -1,0 +1,45 @@
+.menu {list-style-type: none; font-family: Verdana; display: inline-block; margin-left: 595px;}
+.menu li {display: inline;}
+/* index */
+.main-text {text-align: center;}
+.second-main-text {text-align: center;}
+/* map */
+.main-map {height: 900px; margin-left: 340px;}
+.main-map-text {text-align: center;}
+.region-maps {text-align: center;}
+.central-yharnam {width: 700px;}
+.cathedral-ward {width: 700px;}
+.old-yharnam-1 {width: 700px;}
+.old-yharnam {width: 700px;}
+.hemwick {width: 700px;}
+.castle {width: 700px;}
+.woods {width: 700px;}
+.burger {width: 700px;}
+.village {width: 700px;}
+.village-2 {width: 700px;}
+.lecture {width: 700px;}
+.frontier_1 {width: 700px;}
+.frontier {width: 700px;}
+.mensis {height: 900px;}
+/* bosses */
+.cleric-text {text-align: center;}
+.father-text {text-align: center;}
+.father-2-text {text-align: center;}
+.dst-text {text-align: center;}
+.witch-text {text-align: center;}
+.darkbeast-text {text-align: center;}
+.amelia-text {text-align: center;}
+.gang-text {text-align: center;}
+.bastard-text {text-align: center;}
+.sans-text {text-align: center;}
+.rom-text {text-align: center;}
+.pussy-text {text-align: center;}
+.mergo-text {text-align: center;}
+.disabled-text {text-align: center;}
+.moon-text {text-align: center;}
+.dst {width: 1000px;}
+.darkbeast {width: 1000px;}
+.screw-you {width: 1000px;}
+.spoider {width: 1000px;}
+.moon {width: 1000px;}
+.bosses-images {text-align: center;}
